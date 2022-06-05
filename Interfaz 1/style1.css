@@ -1,0 +1,129 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(img1.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.titulo {
+    background-color: rgba(9, 17, 36, 0.7);
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 30px;
+}
+
+.caja {
+    background-color: rgba(37, 55, 86, 0.7);
+    margin-top: 3px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 30px;
+    height: 800px;
+}
+
+.labelname {
+    margin-left: 400px;
+    color: white;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.nombre {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    width: 500px;
+    height: 25px;
+    background-color: rgba(37, 55, 86, 0.7);
+    color: white;
+    opacity: 0.7;
+    border-radius: 30px;
+}
+
+.labelfecha {
+    margin-left: 256px;
+    color: white;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.select {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 164px;
+    height: 30px;
+    background-color: rgba(37, 55, 86, 0.7);
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.city {
+    margin-left: 247px;
+    color: white;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.pais {
+    margin-left: 277px;
+    color: white;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.select2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 500px;
+    height: 30px;
+    background-color: rgba(37, 55, 86, 0.7);
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.Nacionalidad {
+    margin-left: 344px;
+    color: white;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.pasport {
+    margin-left: 248px;
+    color: white;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.paispas {
+    margin-left: 154px;
+    color: white;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.labelfecha2 {
+    margin-left: 258px;
+    color: white;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.labelfecha3 {
+    margin-left: 287px;
+    color: white;
+    font-size: 25px;
+    margin-top: 15px;
+}
