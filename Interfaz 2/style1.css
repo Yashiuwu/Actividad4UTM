@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(img1.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.cabezera  {
+    background-color: rgba(6, 26, 28, 0.7);
+    margin-top: 150px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 30px;
+    margin-bottom: 5px;
+}
+
+.tittle {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.caja {
+    height: 700px;
+    background-color: rgba(2, 250, 195, 0.4);
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 30px;
+}
+
+.label {
+    color: rgb(11, 28, 31);
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.caja1 {
+    background-color: rgba(2, 250, 195, 0.4);
+    border-radius: 30px;
+    color: rgb(11, 28, 31);
+    margin-bottom: 20px;
+}
+
+.caja2 {
+    background-color: rgba(2, 250, 195, 0.4);
+    border-radius: 30px;
+    color: rgb(11, 28, 31);
+    margin-bottom: 20px;
+    width: 80px;
+    text-align: center;
+}
